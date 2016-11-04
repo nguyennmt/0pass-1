@@ -1,0 +1,18 @@
+.navlogo {
+    display: inline-block;
+    width: 100px;
+    /*    height: 50px; */
+    /*    margin-right: 20px; */
+    /*    margin-top: 15px; */
+    /* if you want it vertically middle of the navbar. */
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: center;
+    width: 400px;
+    /*    height: 50px; */
+    /*    margin-right: 20px; */
+    /*    margin-top: 15px; */
+    /* if you want it vertically middle of the navbar. */
+}
